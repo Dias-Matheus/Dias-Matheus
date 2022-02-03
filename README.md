@@ -4,8 +4,6 @@ Hi guys 👋😊
 - 📫 How to reach me: mthsdiasx@gmail.com
 - ⚡ Fun fact: I hate onions!
 
-##
-
 <center>
   <a href="https://www.linkedin.com/in/-matheusdias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </center>
 
